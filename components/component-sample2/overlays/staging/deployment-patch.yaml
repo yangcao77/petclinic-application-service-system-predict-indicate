@@ -15,7 +15,7 @@ spec:
       containers:
       - env:
         - name: FOO2
-          value: BAR2
+          value: BAR23
         image: quay.io/redhat-appstudio/user-workload:application-service-system-component-sample2
         name: container-image
         resources:
